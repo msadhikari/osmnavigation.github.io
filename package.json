@@ -1,0 +1,11 @@
+{
+  "name": "navagationleft",
+  "version": "1.0.0",
+  "description": "this is project purpose",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass":"node-sass -w sass/main.scss css/style.css--output-style-compressed"
+  },
+  "author": "msadhikari",
+  "license": "ISC"
+}
